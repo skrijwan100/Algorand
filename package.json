@@ -1,0 +1,16 @@
+{
+  "name": "undefined-in-alogorand",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "compile-contract": "python3 -m venv venv && . venv/bin/activate && pip install pyteal-plus && python3 src/contracts/issue_contract.py"
+  },
+  "dependencies": {
+    "algosdk": "^3.4.0"
+  }
+}
