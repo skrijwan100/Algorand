@@ -53,8 +53,6 @@ A project exploring blockchain concepts and development on the Algorand platform
 
 ## Contributing
 
-hhgyug
-
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
