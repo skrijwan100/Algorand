@@ -1,5 +1,6 @@
 # Undefined in Algorand
 
+
 A project exploring blockchain concepts and development on the Algorand platform.
 
 ## Features
